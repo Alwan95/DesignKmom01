@@ -6,6 +6,5 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
-
-This is a sample home page written in markdown with some frontmatter defined.
+Jag heter Alwan och är 27 år. Jag har läst datavetenskap på MDU 2019-2022.
+![me](image/me.JPG)
